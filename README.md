@@ -30,6 +30,5 @@ Hey there! I'm Blake, a software engineering student at St. Cloud State Universi
 
 - Email: bnorman718@outlook.com
 
-Feel free to check out my repos! 🚀
 
 
